@@ -1,5 +1,5 @@
 # flatten_all_movies_in_pwd
-This script flattens movies from a maize rotational ear scanner into 2d cylindrical projections. It is presented as supplemental information to the paper, "Custom built scanner and simple image processing pipeline enables low-cost, high-throughput phenotyping of maize ears."
+This script flattens movies from a maize rotational ear scanner into 2d cylindrical projections. It is presented as supplemental information to the paper "Custom built scanner and simple image processing pipeline enables low-cost, high-throughput phenotyping of maize ears" by Cedar Warman and John E Fowler.
 
 ## Requirements
 FFMpeg and ImageMagick are required for this script to run.
