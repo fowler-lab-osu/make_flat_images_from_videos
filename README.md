@@ -1,5 +1,5 @@
-# flatten_all_videos_in_pwd
-This script flattens videos from a maize rotational ear scanner into 2d cylindrical projections. It is presented as supplemental information to the paper "Custom built scanner and simple image processing pipeline enables low-cost, high-throughput phenotyping of maize ears" by Cedar Warman and John E Fowler.
+# Make flat images from videos
+This script flattens videos from a maize ear scanner (MES) into 2d cylindrical projections. It is presented as supplemental information to the paper "A cost-effective maize ear phenotyping platform enables rapid categorization and quantification of kernels."
 
 ## Requirements
 FFMpeg and ImageMagick are required for this script to run.
